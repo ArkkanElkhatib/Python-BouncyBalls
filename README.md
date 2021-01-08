@@ -1,4 +1,4 @@
-"# Python-BouncyBalls" 
+# Python-BouncyBalls
 
 Requires the 'Pygame' Library:
   pip install pygame
